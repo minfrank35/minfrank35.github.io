@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/minfrank/static/css/main.b2fa0da9.css",
+    "main.js": "/minfrank/static/js/main.644da8c1.js",
+    "static/js/453.906b0208.chunk.js": "/minfrank/static/js/453.906b0208.chunk.js",
+    "static/media/김성민_이력서_2025_04_23.pdf": "/minfrank/static/media/김성민_이력서_2025_04_23.bb73fb2d2e2ab785d898.pdf",
+    "static/media/경력기술서_김성민.pdf": "/minfrank/static/media/경력기술서_김성민.d7bdc55a8c30abaf75ae.pdf",
+    "static/media/김성민_자기소개서.pdf": "/minfrank/static/media/김성민_자기소개서.a55c20a718f9f33d771a.pdf",
+    "static/media/나소개사진.jpg": "/minfrank/static/media/나소개사진.22521fd6d7f950811742.jpg",
+    "index.html": "/minfrank/index.html",
+    "main.b2fa0da9.css.map": "/minfrank/static/css/main.b2fa0da9.css.map",
+    "main.644da8c1.js.map": "/minfrank/static/js/main.644da8c1.js.map",
+    "453.906b0208.chunk.js.map": "/minfrank/static/js/453.906b0208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2fa0da9.css",
+    "static/js/main.644da8c1.js"
+  ]
+}
